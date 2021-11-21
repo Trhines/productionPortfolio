@@ -57,3 +57,7 @@ body{
 .container{
   max-width: 100% !important;
 }
+
+p{
+  padding: 1rem;
+}
