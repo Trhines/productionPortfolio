@@ -22,7 +22,7 @@ const GithubInfo = () => {
                     <GithubIcon />
                 </div>
                 <div className="flex-centered info-style">
-                    <p>Github</p>
+                    <p>Suck my nuuuuuuuuuts</p>
                 </div>
             </a>
         </OverlayTrigger>
