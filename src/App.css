@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+html, body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+:root{
+  --text: white;
+  --offWhite: #ffffff7d;
+  --highlight: gold;
+  --offGold: #ffd7007d;
+  --bg:#262626;
+  --navclr:#3b3b3b
+}
+
+html {
+  overflow-y: scroll;
+}
+
+body{
+  background-color: var(--bg) !important;
+}
+
+.main{
+  display:flex;
+}
+
+.btn{
+  border-radius: 0px !important;
+}
+
+.container{
+  max-width: 100% !important;
+}

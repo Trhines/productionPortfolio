@@ -1,0 +1,11 @@
+.row{
+    color: var(--text)
+}
+
+.card-title{
+    color: var(--highlight);
+}
+
+.no-margin{
+    margin: 0px;
+}
