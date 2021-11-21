@@ -31,9 +31,9 @@
     top:70px;
 }
 
-/* .imgLink:hover{
-    opacity: 75%;
-} */
+.imgLink:hover{
+    opacity: 90%;
+}
 
 .btn-secondary{
     color: var(--text);
